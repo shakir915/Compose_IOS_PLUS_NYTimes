@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ios" type="KmmRunConfiguration" factoryName="iOS Application" CONFIG_VERSION="1" EXEC_TARGET_ID="2F718C56-9622-4F55-8B35-F731C04D411D" XCODE_PROJECT="$PROJECT_DIR$/app/ios/ios.xcworkspace" XCODE_CONFIGURATION="Debug" XCODE_SCHEME="ios">
+  <configuration default="false" name="ios" type="KmmRunConfiguration" factoryName="iOS Application" CONFIG_VERSION="1" EXEC_TARGET_ID="CF18C630-9437-449D-984D-AFA6631857A4" XCODE_PROJECT="$PROJECT_DIR$/app/ios/ios.xcworkspace" XCODE_CONFIGURATION="Debug" XCODE_SCHEME="ios">
     <method v="2">
       <option name="com.jetbrains.kmm.ios.BuildIOSAppTask" enabled="true" />
     </method>
